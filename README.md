@@ -1,0 +1,2 @@
+# blueprintPolicy
+### a Sails application
